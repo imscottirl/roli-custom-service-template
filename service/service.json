@@ -1,0 +1,11 @@
+{
+    "identity": "e30=",
+    "name": "my-service",
+    "configVersion": 1,
+    "classes": [],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "allowJs": true,
+        "strict": true
+    }
+}
